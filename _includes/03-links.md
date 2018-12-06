@@ -1,1 +1,1 @@
-[my profile] (https://github.com/jiang-chuan)
+[my profile](https://github.com/jiang-chuan)
